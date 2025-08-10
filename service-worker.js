@@ -19,7 +19,9 @@ const urlsToCache = [
   '/java-interview-quiz/data/thread.json',
   '/java-interview-quiz/icons/icon-72x72.png',
   '/java-interview-quiz/icons/icon-192x192.png',
-  '/java-interview-quiz/icons/icon-512x512.png'
+  '/java-interview-quiz/icons/icon-512x512.png',
+  '/java-interview-quiz/screenshots/screenshot1.png',
+  '/java-interview-quiz/screenshots/screenshot2.png'
 ];
 
 // 설치 이벤트
