@@ -2,6 +2,8 @@
   "id": "/java-interview-quiz/",
   "name": "자바 면접 준비 퀴즈",
   "short_name": "Java Quiz",
+  "version": "1.0.1",
+  "lang": "ko",
   "description": "자바 면접을 위한 퀴즈 앱입니다",
   "start_url": "/java-interview-quiz/",
   "display": "standalone",
