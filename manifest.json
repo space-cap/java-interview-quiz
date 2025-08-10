@@ -9,6 +9,20 @@
   "theme_color": "#007acc",
   "orientation": "portrait",
   "scope": "/java-interview-quiz/",
+  "dir": "ltr",
+  "categories": ["education", "productivity"],
+  "screenshots": [
+    {
+      "src": "/java-interview-quiz/screenshots/screenshot1.png",
+      "sizes": "320x568",
+      "type": "image/png"
+    },
+    {
+      "src": "/java-interview-quiz/screenshots/screenshot2.png",
+      "sizes": "320x568",
+      "type": "image/png"
+    }
+  ],
   "icons": [
     {
       "src": "/java-interview-quiz/icons/icon-72x72.png",
