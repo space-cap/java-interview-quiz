@@ -13,18 +13,26 @@
     {
       "src": "/java-interview-quiz/icons/icon-72x72.png",
       "type": "image/png",
-      "sizes": "72x72"
+      "sizes": "72x72",
+      "purpose": "any"
     },
     {
       "src": "/java-interview-quiz/icons/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "/java-interview-quiz/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
     },
     {
       "src": "/java-interview-quiz/icons/icon-512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any"
     }
   ]
 }
